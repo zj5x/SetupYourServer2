@@ -7,6 +7,10 @@ Aveți nevoie de următoarele pentru a edita codul:
 -Eclipse IDE
 -Un link catre un fișier Rar ce conține versiunea cu modurile serverului
 
+
+
+
+
 EN:
 An app that helps users install the necessary mods of your minecraft server
 Designed by:ZJ5x
